@@ -1,0 +1,12 @@
+{
+  "name": "basic-html-project",
+  "version": "1.0.0",
+  "description": "A simple HTML project",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [],
+  "author": "Anushka",
+  "license": "ISC"
+}
