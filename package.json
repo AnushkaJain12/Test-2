@@ -4,9 +4,13 @@
   "description": "A simple HTML project",
   "main": "index.js",
   "scripts": {
-    "start": "npx serve ."
+    "start": "serve .",
+    "build": "echo \"No build step required\""
   },
   "keywords": [],
   "author": "Anushka",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
 }
